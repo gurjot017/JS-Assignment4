@@ -18,3 +18,9 @@ body {
     text-align: center;
   }
   
+  #product-container img {
+    max-width: 100%; /* Ensures the image doesn't overflow its container */
+    height: auto; /* Keeps the image's aspect ratio intact */
+    border-radius: 8px; /* Optional: for rounded corners on images */
+  }
+  
