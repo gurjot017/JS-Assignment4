@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('https://your-github-username.github.io/JS-Assignment4/data.json')  // Replace with your GitHub Pages JSON URL
+    fetch('https://gurjot017/JS-Assignment4/data.json')
+
       .then(response => response.json())  // Parse the JSON response
       .then(data => {
         const container = document.getElementById('product-container');
