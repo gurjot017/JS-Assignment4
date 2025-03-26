@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Laptop",
+      "price": "$900",
+      "brand": "Dell",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Smartphone",
+      "price": "$700",
+      "brand": "Samsung",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Headphones",
+      "price": "$100",
+      "brand": "Sony",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Tablet",
+      "price": "$300",
+      "brand": "Apple",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Smartwatch",
+      "price": "$150",
+      "brand": "Fitbit",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Camera",
+      "price": "$600",
+      "brand": "Canon",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
