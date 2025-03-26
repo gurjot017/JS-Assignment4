@@ -3,37 +3,39 @@
       "name": "Laptop",
       "price": "$900",
       "brand": "Dell",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://github.com/gurjot017/JS-Assignment4/raw/main/laptop.jpg"
+
     },
     {
       "name": "Smartphone",
       "price": "$700",
       "brand": "Samsung",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://github.com/gurjot017/JS-Assignment4/raw/main/smartphone.jpg"
+"
     },
     {
       "name": "Headphones",
       "price": "$100",
       "brand": "Sony",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://github.com/gurjot017/JS-Assignment4/raw/main/headphones.jpg"
     },
     {
       "name": "Tablet",
       "price": "$300",
       "brand": "Apple",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://github.com/gurjot017/JS-Assignment4/raw/main/tablet.jpg""
     },
     {
       "name": "Smartwatch",
       "price": "$150",
       "brand": "Fitbit",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://github.com/gurjot017/JS-Assignment4/raw/main/smartwatch.jpg""
     },
     {
       "name": "Camera",
       "price": "$600",
       "brand": "Canon",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://github.com/gurjot017/JS-Assignment4/raw/main/camera.jpg""
     }
   ]
   
