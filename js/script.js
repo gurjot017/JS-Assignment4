@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     fetch('https://gurjot017.github.io/JS-Assignment4/data.json')
 
 
+
       .then(response => response.json())  // Parse the JSON response
       .then(data => {
         const container = document.getElementById('product-container');
